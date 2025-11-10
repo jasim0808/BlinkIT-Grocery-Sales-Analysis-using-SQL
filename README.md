@@ -19,4 +19,4 @@ README.md – Project summary.
 # About Me
 I'm Jaleel Jasim K, an aspiring data analyst learning SQL by working on real-world-style datasets.
 
-Thank you for visiting my project! 😊
+Thank you for visiting my project!
